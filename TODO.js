@@ -1,7 +1,7 @@
 /*
-    routes/api/category-routes.js
-    routes/api/product-routes.js
-    routes/api/tag-routes.js
+DONE    routes/api/category-routes.js
+DONE    routes/api/product-routes.js
+DONE    routes/api/tag-routes.js
 DONE    models/Category.js
 DONE    models/index.js
 DONE    models/Product.js
